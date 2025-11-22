@@ -87,7 +87,12 @@ endmodule
 
 ### RegisterNumber:25017517
 
+
+
 **RTL Schematic**
+
+
+
 <img width="545" height="243" alt="image" src="https://github.com/user-attachments/assets/8b7470fb-4899-4169-a3da-5714490866b5" />
 
 
